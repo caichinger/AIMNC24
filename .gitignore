@@ -2,6 +2,7 @@
 *wip*
 *private*
 *.html
+.vscode
 
 # https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
