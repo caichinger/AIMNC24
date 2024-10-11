@@ -79,7 +79,7 @@ If you chose to use this setup, you need to:
 
 1. [Download](https://www.anaconda.com/distribution/#download-section) the appropriate Python 3.12 distribution for your operating system.
 2. Go through the [Getting Started](https://docs.anaconda.com/anaconda/user-guide/getting-started/) guide and in particular arrive at the section [Run Python in a Jupyter Notebook](https://docs.anaconda.com/anaconda/user-guide/getting-started/#run-python-in-a-jupyter-notebook)
-Take a look at the Google Colaboratory notes on mentioned above.
+Take a look at the Google Colaboratory notes mentioned above.
 
 This setup is recommended for those who prefer a local configuration and who wish to experiment further.
 
@@ -91,7 +91,20 @@ $ conda activate aimnc
 $ jupyter lab
 ```
 
+You can also use Anaconda Navigator to accomplish the above.
+
 
 ### Local R Setup
 
-TODO
+To use R, you will have to install two software packages:
+* RStudio and 
+* R. 
+
+Both are freeware (for
+students), and you can find an RStudio installation file here:
+https://www.rstudio.com/products/rstudio/download/. 
+
+Under MS Windows, you will be
+prompted to install R when you open RStudio. Under other operating systems, 
+you may have to separately install R. We recommend running R commands from 
+the RStudio editor script.
