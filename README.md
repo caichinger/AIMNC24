@@ -4,8 +4,8 @@ This repository comprises lecture notes and exercises
 devised for the course [Artificial Intelligence and the Multinational Company](https://moodle.univie.ac.at/course/view.php?id=436559)
 and supplements the material provided through Moodle.
 
-Through this repository you have access to the (interactive) course 
-notes and are able to experiment with the material presented and 
+Through this repository you have access to the (interactive) course
+notes and are able to experiment with the material presented and
 obtain a practical understanding of theoretical principles.
 
 
@@ -22,15 +22,15 @@ As a workshop style course, a computing environment is needed.
 Through it, you will gain hands on experience in working with data and
 applying machine learning methods to real world use cases.
 
-Both the [R](https://www.r-project.org/) and [Python](https://www.python.org/) 
+Both the [R](https://www.r-project.org/) and [Python](https://www.python.org/)
 programming language offer rich data science and machine learning ecosystems.
 You are free to choose the tool that you are more familiar with.
 
 The coding demos and code examples used during the lectures are given in Python.
 
 It is highly advised to have established a properly functioning working
-environment prior to the course. Small homework exercises will be given from 
-the first lecture on to gain “class participation” points and help prepare for 
+environment prior to the course. Small homework exercises will be given from
+the first lecture on to gain “class participation” points and help prepare for
 the group project.
 
 Should you experience problems with the setup, feel free to contact
@@ -72,7 +72,7 @@ To change the runtime, go to the menu bar
 ### Local Python Setup
 
 As local computing environment, the [Anaconda](https://www.anaconda.com/)
-Python distribution can be used. By doing that, you can replicate the 
+Python distribution can be used. By doing that, you can replicate the
 environment provided by Google Colab on your machine.
 
 If you chose to use this setup, you need to:
@@ -97,14 +97,14 @@ You can also use Anaconda Navigator to accomplish the above.
 ### Local R Setup
 
 To use R, you will have to install two software packages:
-* RStudio and 
-* R. 
+* RStudio and
+* R.
 
 Both are freeware (for
 students), and you can find an RStudio installation file here:
-https://www.rstudio.com/products/rstudio/download/. 
+https://www.rstudio.com/products/rstudio/download/.
 
 Under MS Windows, you will be
-prompted to install R when you open RStudio. Under other operating systems, 
-you may have to separately install R. We recommend running R commands from 
+prompted to install R when you open RStudio. Under other operating systems,
+you may have to separately install R. We recommend running R commands from
 the RStudio editor script.
