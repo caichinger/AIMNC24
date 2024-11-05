@@ -25,8 +25,13 @@ Once you have done the above, how about your project, i.e. the Paillasse use cas
 # Code on GitHub / Google Colab
 
 As said, all code is on GitHub: https://github.com/caichinger/AIMNC24
+* Includes our discussion notes
+* Includes source code
+* Includes supplementary material
 
-You can open and run the code examples in Google Colab and I invite you to do that in order to familiarized yourself with the environment.
+You can view the examples on GitHub.
+
+You can view and run the examples in Google Colab and I invite you to do that in order to familiarized yourself with the environment.
 
 
 # Start Coding
