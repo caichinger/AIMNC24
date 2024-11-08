@@ -17,7 +17,7 @@ I now encourage you to compare and contrast the following:
 * The domain specific questions, i.e. the framing of the problem, as discussed at the beginning of chapter "3 Linear Regression" in the book "Introduction to Statistical Learning" (https://www.statlearning.com/). You find a copy of the respective pages in the supplements folder.
 
 
-# Project Outline
+# Your Project Outline?
 
 Once you have done the above, how about your project, i.e. the Paillasse use case?
 
@@ -34,7 +34,7 @@ You can view the examples on GitHub.
 You can view and run the examples in Google Colab and I invite you to do that in order to familiarized yourself with the environment.
 
 
-# Start Coding
+# Time to Start Coding
 
 If you haven't started to play around with the Data Camp courses or Google Colab, I suggest you give it a try.
 
