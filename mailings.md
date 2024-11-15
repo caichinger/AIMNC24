@@ -1,5 +1,47 @@
 # Mailings
 
+## Pre Session 4
+
+Dear participants,
+
+Next week's coaching session is an important milestone in your projects and we invite you to prepare well to get the most out of this session.
+
+
+# What to prepare?
+
+The better you are prepared, the more we will be able to support your efforts.
+
+What you can do to be prepared:
+* Have draft version of your project plan ready:
+  * Frame the big picture.
+  * Clearly outline business objective and related consideration with regards to modelling.
+  * Sketch your approach.
+  * Consider our ML project checklist.
+* Have a draft version of your ML pipeline ready:
+  * How could a minimal version look like?
+    * Once that is there, we have something to work on. You can test your assumptions.
+    * Use that minimal version to play through your use case. You can later still improve your model.
+    * Don't let the perfect be the enemy of a small step in the right direction.
+  * What are the necessary steps?
+  * Are there specific, technical details that you need help with?
+
+
+# Hints & Code Snippets
+
+We collected a few hints and snippets here:
+
+https://github.com/caichinger/AIMNC24/blob/main/supplements/hints_and_snippets.ipynb
+
+
+If you are already running into technical issues, consider reaching out by mail to share your problem.
+
+
+
+Looking forward to working with you,
+Kind regards,
+Thomas & Claus
+
+
 ## Pre Session 3
 
 Dear participants,
